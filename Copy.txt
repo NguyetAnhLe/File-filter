@@ -1,0 +1,4 @@
+Hello, My name is Anh
+This is a test file to check if the program is working fine
+Hello Lydie!
+Hey Suman!
